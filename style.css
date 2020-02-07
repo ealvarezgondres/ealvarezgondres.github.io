@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+
+body {
+    background-color: rgb(7, 22, 44);
+}
+
+.name{
+  display: grid;
+  position: relative;
+  margin-left:30px;
+  padding: 10px;
+  font-size: 200%;
+  color: rgb(255, 255, 255);
+  font-family: 'Gill Sans';
+}
+
+.secondary{
+  display: grid;
+  position: relative;
+  margin-left:40px;
+  font-size: 200%;
+  color: rgb(5, 255, 201);
+  font-family: Helvetica;
+  
+}
+
+.email{
+ padding: 60px;
+ margin-left: -10px;
+ position: relative;
+ width: 10px;
+
+}
+
+.insta{
+margin-top: -100px;
+margin-left: 110px;
+}
+
+.main{
+  font-size: 140px;
+  color: aqua;
+  margin-left: 450px;
+  margin-top: 200px;
+  font-family: 'Gill Sans';
+}
+
+html {
+  background-color: #28505D;
+}
+
+.planePath {
+  stroke: #D9DADA;
+  stroke-width: .1%;
+  stroke-width: .5%;
+  stroke-dasharray: 1% 2%;
+  stroke-linecap: round;
+  fill: none;
+}
+
+.fil1 {
+  fill: #D9DADA;
+}
+
+.fil2 {
+  fill: #C5C6C6;
+}
+
+.fil4 {
+  fill: #9D9E9E;
+}
+
+.fil3 {
+  fill: #AEAFB0;
+}
